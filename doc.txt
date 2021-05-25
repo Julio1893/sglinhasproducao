@@ -1,0 +1,13 @@
+
+
+
+Menu:
+	1. Adicionar Maquina f
+	2. Remover Maquina f
+	3. Substituir ou trocar Maquina
+	4. Consultar estado da Maquina f
+	5. Listar todas as maquinas f
+	6. Criar Linha de Producao f
+	7. Associar Maquina a Linha de producao f
+	8. Ver linhas de producao f
+
